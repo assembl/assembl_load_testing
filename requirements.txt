@@ -1,3 +1,3 @@
-ipython==7.13.0
+ipython==7.16.3
 molotov==1.6
 simplejson==3.17.0
